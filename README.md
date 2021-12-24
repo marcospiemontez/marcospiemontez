@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/marcospiemontez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospiemontez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiemontez&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block" align="center"><br>
@@ -13,7 +14,7 @@
   <img align="center" alt="Marcos-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Marcos-Vue" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
+  <img align="center" alt="Marcos-Quasar" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
 <!--   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
   
