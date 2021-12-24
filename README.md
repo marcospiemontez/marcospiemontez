@@ -1,10 +1,10 @@
 <h1 align="center">Olá, me chamo Marcos Piemontez 👋</h1>
-<p>
+<h3>
 - 📚 Eu atualmente estou cursando Analise e Desenvolvimento de Sistemas.
-</p>
-<p>
+</h3>
+<h3>
 - 💼 Eu trabalho como desenvolvedor WEB.
-</p>
+</h3>
 
 <div align="center">
   <a href="https://github.com/marcospiemontez">
