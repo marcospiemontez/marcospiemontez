@@ -1,6 +1,9 @@
 <h1 align="center">Olá, me chamo Marcos Piemontez 👋</h1>
-<p align="center">
-    Estou cursando Análise em Desenvolvimento de Sistemas. Atualmente trabalho como desenvolvedor Front-end 💻
+<p>
+- 📚 Eu atualmente estou cursando Analise e Desenvolvimento de Sistemas.
+</p>
+<p>
+- 💼 Eu trabalho como desenvolvedor WEB.
 </p>
 
 <div align="center">
