@@ -22,7 +22,7 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:marcos.piemontez1@gmail.com">
+  <a href="mailto:marcos.piemontez1@gmail.com" title="Enviar um e-mail">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/marcospiemontez" target="_blank">
