@@ -45,8 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=marcospiemontez&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
   <br/>
 </div>
 
