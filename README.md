@@ -7,18 +7,12 @@
 <br/>
 
 <div align="start">
-  🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end.
-
-
-  🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
-
-  📚 Estou dedicando tempo ao estudo de **TypeScript**, **Vue 3** com **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
-
+  🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end. <br/>
+  🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js. <br/>
+  📚 Estou dedicando tempo ao estudo de **TypeScript**, **Vue 3** com **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades. <br/>
   💍 Dizem que devemos namorar os frameworks, mas nunca nos casar com eles. No entanto, meu fascínio pelo Vue foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
-     comprometido em me tornar um especialista nesta tecnologia.
-
-  🎮 Além disso, já fui administrador de um servidor Discord de um streamer renomado, o que me proporcionou valiosas experiências em gerenciamento de comunidade.
-
+     comprometido em me tornar um especialista nesta tecnologia. <br/>
+  🎮 Além disso, já fui administrador de um servidor Discord de um streamer renomado, o que me proporcionou valiosas experiências em gerenciamento de comunidade. <br/>
   💬 Fique à vontade para entrar em contato comigo se quiser discutir qualquer tópico relacionado a desenvolvimento web.
 </div>
  
