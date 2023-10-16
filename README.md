@@ -48,10 +48,4 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiemontez&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<hr/>
-
 <br/>
