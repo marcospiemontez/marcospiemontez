@@ -7,7 +7,8 @@
 <br/>
 
 <div align="start">
-  <p>🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end.</p> <br>
+  <p>🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end.</p>
+    
   🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
   
   📚 Estou dedicando tempo ao estudo de **TypeScript**, **Vue 3** com **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
