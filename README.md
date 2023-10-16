@@ -13,7 +13,8 @@
   
   📚 Estou dedicando tempo ao estudo de **TypeScript**, **Vue 3** com **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
   
-  💍 Sou comprometido com o Vue.js e busco me tornar um especialista na tecnologia.
+  💍 Dizem para não nos casarmos com frameworks. No entanto, meu fascínio pelo Vue foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
+     comprometido em me tornar um especialista nesta tecnologia.
      
   🎮 Além disso, já fui administrador de um servidor Discord de um streamer renomado, o que me proporcionou valiosas experiências em gerenciamento de comunidade.
   
