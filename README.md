@@ -32,12 +32,13 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,gitlab,git,linux,discord,figma,tailwind" /><br>
     <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="48" heigth="48" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vuejs,nuxtjs,quasarframework,supabase" />
+    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-dark.svg" width="48" heigth="48" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vuejs,nuxtjs,supabase" />
 </div>
 
 <br/>
