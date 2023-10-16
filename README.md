@@ -1,11 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marcospiemontez.marcospiemontez" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Marcos+Piemontez!;" />
 </h1>
-
 <br/>
-
 <div align="start">
   <p>🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end.</p>
     
