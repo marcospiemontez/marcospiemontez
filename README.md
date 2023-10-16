@@ -7,15 +7,16 @@
 <br/>
 
 <div align="center">
- 
- 🔭 Atualmente, estou trabalhando na **[XippTech](https://www.linkedin.com/company/xipptech/mycompany/)**, uma empresa de seguros.
+  🔭 Atualmente, estou trabalhando na **[XippTech](https://www.linkedin.com/company/xipptech/mycompany/)**, como front-end.
 
- 🌱 Tenho experiência de 3 anos com Vue.js e estou sempre me atualizando na área.
+  🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
 
- 💬 Sinta-se à vontade para me perguntar sobre **Node.js, React, Firebase, MongoDB... ou qualquer outro tópico [aqui](https://github.com/salesp07/salesp07/issues)**.
+  📚 Estou dedicando tempo ao estudo de **TypeScript**, **Vue 3** com **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
 
- ⚡ Curiosidade interessante: **As capas da Patrulha da Noite em Game of Thrones são feitas de tapetes da Ikea**.
- 
+  💍 Dizem que devemos namorar os frameworks, mas nunca nos casar com eles. No entanto, meu fascínio pelo Vue foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
+     comprometido em me tornar um especialista nesta tecnologia que me conquistou.
+
+  💬 Fique à vontade para entrar em contato comigo se quiser discutir qualquer tópico relacionado a desenvolvimento web.
 </div>
  
 <div align="center"> 
