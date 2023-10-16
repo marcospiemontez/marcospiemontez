@@ -46,7 +46,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=marcospiemontez&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiemontez&hide_progress=true" alt="streak stats"/>
   <br/>
 </div>
 
