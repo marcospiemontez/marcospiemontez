@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-   🔭 Atualmente, estou trabalhando na <a fref="https://www.linkedin.com/company/xipptech/mycompany">, como front-end.
+   🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany">[xippTech]</a>, como front-end.
 
   🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
 
