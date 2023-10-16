@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width=400 src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
   <br/>
 </div>
 
