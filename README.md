@@ -35,21 +35,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,gitlab,linux,discord,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,gitlab,git,linux,discord,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,supabase,vuejs,nuxtjs,vuetifyframework" /><br>
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/marcospiemontez/marcospiemontez/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
