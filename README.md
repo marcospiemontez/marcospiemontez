@@ -7,27 +7,24 @@
 <br/>
 
 <div align="center">
-   🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>XippTech</strong></a>, como front-end.
+   🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end.
 
   🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
 
   📚 Estou dedicando tempo ao estudo de **TypeScript**, **Vue 3** com **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
 
   💍 Dizem que devemos namorar os frameworks, mas nunca nos casar com eles. No entanto, meu fascínio pelo Vue foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
-     comprometido em me tornar um especialista nesta tecnologia que me conquistou.
+     comprometido em me tornar um especialista nesta tecnologia.
 
   💬 Fique à vontade para entrar em contato comigo se quiser discutir qualquer tópico relacionado a desenvolvimento web.
 </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:marcos.piemontez1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/marcospiemontez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
