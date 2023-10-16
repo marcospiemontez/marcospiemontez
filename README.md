@@ -46,7 +46,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=marcospiemontez&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="[https://streak-stats.demolab.com/?user=marcospiemontez&count_private=true&theme=react&border_radius=10](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=marcospiemontez&repo=github-readme-stats)](https://github.com/marcospiemontez/github-readme-stats)" alt="streak stats"/>
 </div>
 
 <br/><br/>
