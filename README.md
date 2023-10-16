@@ -8,15 +8,15 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em uma **empresa de seguros**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🔭 Atualmente, estou trabalhando na **[XippTech](https://www.linkedin.com/company/xipptech/mycompany/)**, uma empresa de seguros.
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 🌱 Tenho experiência de 3 anos com Vue.js e estou sempre me atualizando na área.
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💬 Sinta-se à vontade para me perguntar sobre **Node.js, React, Firebase, MongoDB... ou qualquer outro tópico [aqui](https://github.com/salesp07/salesp07/issues)**.
+
+ ⚡ Curiosidade interessante: **As capas da Patrulha da Noite em Game of Thrones são feitas de tapetes da Ikea**.
  
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
