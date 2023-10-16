@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,supabase,vuejs,nuxtjs,vuetifyframework" /><br>
-    <img src="[https://skillicons.dev/icons?i=javascript,typescript,supabase,vuejs,nuxtjs,vuetifyframework](https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-dark.svg)" /><br>
+    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-dark.svg" />
 </div>
 
 <br/>
