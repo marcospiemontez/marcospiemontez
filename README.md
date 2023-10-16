@@ -46,7 +46,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=marcospiemontez&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
   <br/>
 </div>
 
