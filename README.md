@@ -4,7 +4,7 @@
 </h1>
 <br/>
 <div align="start">
-  <p>🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como front-end.</p>
+  <p>🔭 Atualmente, estou trabalhando na <a href="https://www.linkedin.com/company/xipptech/mycompany"><strong>xippTech</strong></a>, como desenvolvedor front-end.</p>
     
   🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
   
