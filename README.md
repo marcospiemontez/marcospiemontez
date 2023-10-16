@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img height="200" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiemontez&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height="600" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiemontez&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
