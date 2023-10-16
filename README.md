@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a style="margin-right: 100px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a style="margin-right: 200px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcospiemontez&theme=vue-dark&locale=pt_BR" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiemontez&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
