@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-   🔭 Atualmente, estou trabalhando na [here](https://github.com/salesp07/salesp07/issues), como front-end.
+   🔭 Atualmente, estou trabalhando na **[xippTech]https://www.linkedin.com/company/xipptech/mycompany**, como front-end.
 
   🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
 
