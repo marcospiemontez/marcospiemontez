@@ -16,6 +16,8 @@
   💍 Dizem que devemos namorar os frameworks, mas nunca nos casar com eles. No entanto, meu fascínio pelo Vue foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
      comprometido em me tornar um especialista nesta tecnologia.
 
+  🎮 Além disso, já fui administrador de um servidor Discord de um streamer renomado, o que me proporcionou valiosas experiências em gerenciamento de comunidade.
+
   💬 Fique à vontade para entrar em contato comigo se quiser discutir qualquer tópico relacionado a desenvolvimento web.
 </div>
  
@@ -33,9 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,gitlab,linux,discord,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,supabase,vuejs,nuxtjs,vuetifyframework" /><br>
-    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-dark.svg" />
 </div>
 
 <br/>
