@@ -8,7 +8,7 @@
     
   🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
   
-  📚 Estou dedicando tempo ao estudo de **TypeScript** com **Vue 3** + **Tailwind** + **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
+  📚 Atualmente estou dedicando tempo ao estudo de **TypeScript** com **Vue 3** + **Tailwind** + **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
   
   💍 Dizem para não nos casarmos com frameworks. No entanto, meu fascínio pelo **Vue** foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
      comprometido em me tornar um especialista nesta tecnologia.
