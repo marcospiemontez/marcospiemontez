@@ -5,7 +5,7 @@
 <br/>
 <div align="start">
   
-  🌱 Tenho uma experiência de **3 anos** como desenvolvedor front-end, com foco em Vue.js.
+  🌱 Tenho uma experiência de **4 anos** como desenvolvedor front-end, com foco em Vue.js.
   
   📚 Atualmente estou dedicando tempo ao estudo de **TypeScript** com **Vue 3** + **Tailwind** + **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
   
