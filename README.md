@@ -1,20 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marcospiemontez.marcospiemontez" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Marcos+Piemontez!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Marcos+Piemontez!;" />
 </h1>
 <br/>
 <div align="start">
-  
-  🌱 Tenho uma experiência de **4 anos** como desenvolvedor front-end, com foco em Vue.js.
-  
-  📚 Atualmente estou dedicando tempo ao estudo de **TypeScript** com **Vue 3** + **Tailwind** + **Pinia**, e a plataforma **Supabase** para aprimorar minhas habilidades.
-  
-  💍 Dizem para não nos casarmos com frameworks. No entanto, meu fascínio pelo **Vue** foi tão profundo que optei por firmar uma parceria vitalícia com ele. Estou totalmente 
-     comprometido em me tornar um especialista nesta tecnologia.
-     
-  🎮 Além disso, já fui administrador de um servidor Discord de um streamer renomado, o que me proporcionou valiosas experiências em gerenciamento de comunidade.
-  
-  💬 Fique à vontade para entrar em contato comigo se quiser discutir qualquer tópico relacionado a desenvolvimento web.
+  🚀 Desenvolvedor Front-End com **4 anos de experiência** sólida, especializado em **Vue.js (2 e 3), TypeScript, Quasar e Vuetify**. Minha atuação foca na criação de interfaces escaláveis, performáticas e responsivas.
+  <br/><br/>
+  🛠️ Experiência comprovada em integração com **APIs RESTful**, aplicação de **Clean Code**, desenvolvimento com **testes automatizados** e adoção de **metodologias ágeis (Scrum)**. Comprometido com a entrega de soluções eficientes, seguras e de alto impacto, inclusive em ambientes de missão crítica.
+  <br/><br/>
+  📚 Atualmente, aprofundando meus conhecimentos em **TypeScript com Vue 3, Tailwind CSS e Pinia**, além de explorar a plataforma **Supabase** para expandir minhas habilidades em desenvolvimento full-stack.
+  <br/><br/>
+  💼 Destaque para a experiência como **Front-end Pleno na Imply® Tecnologia**, onde fui responsável pelo desenvolvimento e manutenção de um sistema crítico de credenciamento de acessos faciais utilizado em grandes eventos por clientes renomados.
+  <br/><br/>
+  🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UNIGRAN – Centro Universitário da Grande Dourados.
+  <br/><br/>
+  💬 Aberto a novas conexões e discussões sobre desenvolvimento web. Sinta-se à vontade para entrar em contato!
 </div>
  
 <div align="center"> 
@@ -31,7 +31,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center">⚒️ Habilidades e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,gitlab,git,linux,discord,figma,tailwind" /><br>
@@ -43,5 +43,3 @@
 
 <br/>
 <hr/>
-
-<br/>
