@@ -8,7 +8,7 @@
   <br/><br/>
   🛠️ Experiência comprovada em integração com APIs RESTful, aplicação de Clean Code, desenvolvimento com testes automatizados e adoção de metodologias ágeis (Scrum). Comprometido com a entrega de soluções eficientes, seguras e de alto impacto, inclusive em ambientes de missão crítica.
   <br/><br/>
-  📚 Atualmente, aprofundando meus conhecimentos em TypeScript com Vue 3, Tailwind CSS, Pinia e NodeJS (Express TS) para expandir minhas habilidades em desenvolvimento full-stack.
+  📚 Atualmente, aprofundando meus conhecimentos em TypeScript e NodeJS (Express TS) para expandir minhas habilidades em desenvolvimento full-stack.
   <br/><br/>
   💼 Destaque para a experiência como Front-end Pleno na Imply® Tecnologia, onde fui responsável pelo desenvolvimento e manutenção de um sistema crítico de credenciamento de acessos faciais utilizado em grandes eventos por clientes renomados.
   <br/><br/>
