@@ -10,8 +10,6 @@
   <br/><br/>
   📚 Atualmente, aprofundando meus conhecimentos em TypeScript e NodeJS (Express TS) para expandir minhas habilidades em desenvolvimento full-stack.
   <br/><br/>
-  💼 Destaque para a experiência como Front-end Pleno na Imply® Tecnologia, onde fui responsável pelo desenvolvimento e manutenção de um sistema crítico de credenciamento de acessos faciais utilizado em grandes eventos por clientes renomados.
-  <br/><br/>
   🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNIGRAN – Centro Universitário da Grande Dourados.
   <br/><br/>
   💬 Aberto a novas conexões e discussões sobre desenvolvimento web. Sinta-se à vontade para entrar em contato!
